@@ -13,10 +13,12 @@
  <div>
 <h2 align="left">Let's Learn, Grow and Connect:</h2>
 <p align="left">
-<a href="https://twitter.com/ayashmuhammadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayashmuhammadhu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayashmuhammadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayashmuhammadhu" height="30" width="40" /></a>
 <a href="https://fb.com/ayashmuhammadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayashmuhammadhu" height="30" width="40" /></a>
 <a href="https://instagram.com/ayashmuhammadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayashmuhammadhu" height="30" width="40" /></a>
+<a href="https://twitter.com/ayashmuhammadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayashmuhammadhu" height="30" width="40" /></a>
+
+
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
