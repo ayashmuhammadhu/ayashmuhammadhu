@@ -6,12 +6,12 @@
  
 ### About Me,
 
- I am <b>Ayash Muhammadhu,</b>a third-year student pursuing my B.E. in Electronics Engineering at NED University of Engineering & Technology. <b>I am currently focused on Robotics and AI related projects. </b>. ⚡
+ I am <b>Ayash Muhammadhu,</b> a third-year student pursuing my B.E. in Electronics Engineering at NED University of Engineering & Technology. <b>I am currently focused on Robotics and AI related projects. </b>. ⚡
  
  <h3 align="center"> Explorer | Tech Enthusiast | Social Activist </h3>
  
  <div>
-<h2 align="left">Let's Learn, Grow and Connect</h2>
+<h2 align="left">Let's Learn, Grow and Connect:</h2>
 <p align="left">
 <a href="https://twitter.com/ayashmuhammadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayashmuhammadhu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayashmuhammadhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayashmuhammadhu" height="30" width="40" /></a>
